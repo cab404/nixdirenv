@@ -1,17 +1,17 @@
-![Nix|Direnv](./logo.svg)
+![Nix|Direnv](./logo.baked.svg)
 ==========
 *reproducible environments to the moon!*
 
-![shield](./shield.svg)</br>
-![shield-long](./shield-long.svg)
+![shield](./shield.baked.svg)</br>
+![shield-long](./shield-long.baked.svg)
 
 This project is aimed to popularize and make it easier to use reproducible Nix environments, preferably with direnv.
 
-It provides manuals to link to and clickbait-y shields, so you can guide potential new maintainers through setting up Nix and Direnv more quickly.
+It provides **(todo)** manuals to link to and clickbait-y shields, so you can guide potential new maintainers through setting up Nix and Direnv more quickly.
 
 There's a short installation guide I've started writing below, but it's WIP.
 
-Ideally there would be an interactive installation script.
+Ideally there would be an interactive installation script, supporting WSL, MacOS and Linux **(todo)**
 
 -----
 

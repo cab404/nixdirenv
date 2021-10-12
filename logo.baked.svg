@@ -7,59 +7,12 @@
    viewBox="0 0 31.243893 6.7201132"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/cab/data/cab/nixdirenv/sheld.png"
-   inkscape:export-xdpi="96.040001"
-   inkscape:export-ydpi="96.040001"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-center="true"
-     inkscape:snap-to-guides="true"
-     inkscape:snap-page="false"
-     inkscape:snap-grids="false"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="2.0115324"
-     inkscape:cx="131.24323"
-     inkscape:cy="60.153145"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:snap-global="false"
-     inkscape:snap-nodes="false">
-    <sodipodi:guide
-       position="46.681505,-5.4573751"
-       orientation="208.25683,0"
-       id="guide86652" />
-  </sodipodi:namedview>
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient91698">
       <stop
          style="stop-color:#7eb3df;stop-opacity:1"
@@ -119,7 +72,6 @@
        id="e"
        xlink:href="#b" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient91698"
        id="linearGradient91700"
        x1="146.36844"
@@ -130,44 +82,38 @@
        gradientTransform="matrix(1.1379831,0,0,1.1379831,7.510563,-7.0371095)" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-88.259285,-104.05754)">
-    <rect
-       style="fill:url(#linearGradient91700);fill-opacity:1;stroke-width:0.208479;stroke-linejoin:round;paint-order:stroke markers fill"
+    <path
        id="rect846-8"
-       width="46.488377"
-       height="20"
-       x="134.75711"
-       y="104.05754"
-       ry="0"
-       rx="0"
-       clip-path="none" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2085;stroke-linejoin:round;paint-order:stroke markers fill"
+       clip-path="none"
+       style="fill:url(#linearGradient91700);stroke-width:0.208479;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="m 134.75711,104.05754 h 46.48838 v 20 h -46.48838 z" />
+    <path
        id="rect846"
-       width="46.497833"
-       height="20"
-       x="88.259285"
-       y="104.05754"
-       ry="0"
-       rx="0" />
+       style="fill:#ffffff;stroke-width:0.2085;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="m 88.259285,104.05754 h 46.497835 v 20 H 88.259285 Z" />
     <g
        id="g102368"
        transform="matrix(1.1379831,0,0,1.1379831,10.773389,-6.8351282)"
        style="stroke-width:0.336006">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3096px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0811891"
-         x="97.303993"
-         y="110.12672"
-         id="text7564"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0811891"
-           x="97.303993"
-           y="110.12672"
-           id="tspan80565">Nix</tspan></text>
+      <g
+         aria-label="Nix"
+         id="text7564"
+         style="font-size:10.3096px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.0811891">
+        <path
+           d="m 96.304747,102.79724 v 7.32948 h -0.976593 l -3.68991,-5.65317 v 5.65317 h -0.971559 v -7.32948 h 0.971559 l 3.705012,5.66826 v -5.66826 z"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="path38" />
+        <path
+           d="m 97.885418,103.23519 q 0,-0.22653 0.135918,-0.38258 0.140951,-0.15605 0.412787,-0.15605 0.266801,0 0.407752,0.15605 0.145986,0.15605 0.145986,0.38258 0,0.21646 -0.145986,0.37252 -0.140951,0.15102 -0.407752,0.15102 -0.271836,0 -0.412787,-0.15102 -0.135918,-0.15606 -0.135918,-0.37252 z m 1.006797,1.44476 v 5.44677 h -0.936321 v -5.44677 z"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="path40" />
+        <path
+           d="m 101.01656,104.67995 1.19305,1.98339 1.20816,-1.98339 h 1.09237 l -1.78203,2.68814 1.83741,2.75863 h -1.07728 l -1.25849,-2.0438 -1.2585,2.0438 h -1.082306 l 1.832366,-2.75863 -1.776992,-2.68814 z"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="path42" />
+      </g>
       <g
          transform="matrix(0.03195929,0,0,0.03195929,67.474324,129.1092)"
          style="display:inline;opacity:1;stroke-width:0.336006"
@@ -227,16 +173,34 @@
            y="0" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:11.8722px;line-height:1;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.124659"
-       x="141.28877"
-       y="118.45161"
-       id="text83729"><tspan
-         sodipodi:role="line"
-         id="tspan83727"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8722px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.124659"
-         x="141.28877"
-         y="118.45161">direnv</tspan></text>
+    <g
+       aria-label="direnv"
+       id="text83729"
+       style="font-size:11.8722px;line-height:1;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.124659">
+      <path
+         d="m 145.81041,118.45161 -0.0812,-0.66666 q -0.28984,0.36521 -0.68984,0.57391 -0.39419,0.20869 -0.91592,0.20869 -1.16519,0 -1.80865,-0.90433 -0.64347,-0.90433 -0.64347,-2.27241 v -0.12174 q 0,-1.43185 0.64347,-2.31879 0.64346,-0.88694 1.82025,-0.88694 0.91592,0 1.50721,0.67825 v -3.19413 h 1.68112 v 8.90415 z m -2.45792,-3.0608 q 0,0.7536 0.26667,1.28692 0.26666,0.52753 0.92751,0.52753 0.7652,0 1.09563,-0.64926 v -2.4869 q -0.31883,-0.64927 -1.08403,-0.64927 -0.65506,0 -0.93332,0.53912 -0.27246,0.53332 -0.27246,1.31012 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path45" />
+      <path
+         d="m 148.61615,110.55613 q 0,-0.3768 0.25506,-0.62028 0.25507,-0.24927 0.68405,-0.24927 0.42897,0 0.68404,0.24927 0.25506,0.24348 0.25506,0.62028 0,0.37101 -0.25506,0.62028 -0.25507,0.24347 -0.68404,0.24347 -0.42898,0 -0.68405,-0.24347 -0.25506,-0.24927 -0.25506,-0.62028 z m 1.78546,1.62315 v 6.27233 h -1.68112 v -6.27233 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path47" />
+      <path
+         d="m 154.69717,113.69809 q -0.94491,0 -1.24055,0.64346 v 4.11006 h -1.68112 v -6.27233 h 1.58257 l 0.0522,0.74781 q 0.49275,-0.86375 1.39707,-0.86375 0.31884,0 0.51593,0.0754 l -0.0174,1.60576 q -0.12753,-0.0116 -0.30144,-0.029 -0.16811,-0.0174 -0.30724,-0.0174 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path49" />
+      <path
+         d="m 161.3405,117.43134 q -0.30144,0.42898 -0.91592,0.78259 -0.61448,0.35362 -1.5304,0.35362 -1.46664,0 -2.28981,-0.88694 -0.82317,-0.89273 -0.82317,-2.15068 v -0.22608 q 0,-1.42026 0.78839,-2.33038 0.79419,-0.91013 2.13908,-0.91013 1.3507,0 2.05793,0.84636 0.70723,0.84636 0.70723,2.23763 v 0.71303 h -3.99411 q 0.087,0.60868 0.48115,0.98549 0.39419,0.371 1.03765,0.371 0.9565,0 1.51301,-0.70143 z m -2.64342,-4.0173 q -0.53332,0 -0.82317,0.35941 -0.28985,0.35941 -0.3768,0.93911 h 2.33038 v -0.12753 q -0.0116,-0.50434 -0.28405,-0.83477 -0.26666,-0.33622 -0.84636,-0.33622 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path51" />
+      <path
+         d="m 165.12592,113.41983 q -0.71302,0 -1.06084,0.60289 v 4.42889 h -1.67533 v -6.27233 h 1.57098 l 0.058,0.71883 q 0.67245,-0.83477 1.80286,-0.83477 0.89273,0 1.43765,0.53332 0.54492,0.53333 0.54492,1.86083 v 3.99412 H 166.123 v -3.99991 q 0,-0.60289 -0.26086,-0.81738 -0.25507,-0.21449 -0.73622,-0.21449 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path53" />
+      <path
+         d="m 174.33152,112.17928 -2.1159,6.27233 h -1.59417 l -2.12169,-6.27233 h 1.75648 l 1.1652,4.2144 1.15939,-4.2144 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+         id="path55" />
+    </g>
   </g>
 </svg>
